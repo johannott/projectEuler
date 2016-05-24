@@ -82,16 +82,6 @@ console.log(sum_total - square);
 
 //What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-for (var i=1; i <=10000000; i++) {
-debugger;
-   for (var j=1; j <=20; j++) {
-   debugger;
-        if (i % j == 0) {
-        debugger;
-        return;
-        }
 
-   }
-}
 
 //
